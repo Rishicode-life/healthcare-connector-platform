@@ -6,6 +6,7 @@ A smart **healthcare connector** for **prior authorization** workflows. Provider
 ![React](https://img.shields.io/badge/React-18-blue)
 ![FHIR](https://img.shields.io/badge/FHIR-R4-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+[![GitHub](https://img.shields.io/badge/GitHub-healthcare--connector--platform-181717?logo=github)](https://github.com/Rishicode-life/healthcare-connector-platform)
 
 ---
 
